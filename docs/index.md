@@ -99,7 +99,7 @@ Use a command line editor such as ‘vi’  or ‘emacs’. Here are some cheat
 
 ## Home Folder
 For Tosun: Home Folder is located at `/cta/users/username/`. 
-For SunHPC: Home Folder is located at `/home/username/`. 
+For Sakura: Home Folder is located at `/home/username/`. 
 This folder is for long term storage to keep your job files. It is a general purpose distributed file system.
 
 
