@@ -4,7 +4,7 @@ nav:
     - Scheduling with Slurm: slurm.md
     - Tutorials:
         - Using Tosun Cluster: tosun-index.md
-        - Using SunHPC Cluster: sunhpc-index.md
+        - Using Sakura Cluster: sakura-index.md
         - Available Tools:
             - Matlab: 
                 - General Information: matlab/matlab.md
