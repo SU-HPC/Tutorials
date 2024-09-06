@@ -7,7 +7,7 @@ It is outside the scope of this manual to explain Linux commands and/or how para
 
 ## Getting a Cluster Account  
 
-Sabancı University provides students, educators and researchers two HPC clusters: SunHPC and Tosun. As a first step you need to determine which cluster is the most appropriate for you. Please contact your advisor or serdar.acir@sabanciuniv.edu to determine which cluster may better suit your needs.
+Sabancı University provides students, educators and researchers two HPC clusters: Sakura and Tosun. As a first step you need to determine which cluster is the most appropriate for you. Please contact your advisor or serdar.acir@sabanciuniv.edu to determine which cluster may better suit your needs.
 In order to open an account in any of the clusters, please send an email to [serdar.acir@sabanciuniv.edu](mailto:serdar.acir@sabanciuniv.edu) along with the name of the advisor you are working with (if any), any particular partition that you need to access (if any) and a brief explanation of what you are planning to do on the cluster. In you brief explanation you can mention the name of the software that you want to have access to on the cluster. 
 
 Sabancı HPC support will provide you, a username and a password. Upon first login, you will need to change your password with `passwd` command.
@@ -43,7 +43,7 @@ HPC clusters are shared resources that need to allocate user job requests amongs
 
 
 ## How do I login to the HPC Machines?
-`[HPC_cluster] shown below can either be 'tosun.sabanciuniv.edu' or 'sunhpc.sabanciuniv.edu'. So replace it according to the cluster provided to you.`
+`[HPC_cluster] shown below can either be 'tosun.sabanciuniv.edu' or 'sakura.sabanciuniv.edu'. So replace it according to the cluster provided to you.`
 
 ### Windows
 Use a secure shell client, e.g. [MobaXterm](https://www.google.com/url?q=https://mobaxterm.mobatek.net/features.html&sa=D&ust=1570008089849000)
