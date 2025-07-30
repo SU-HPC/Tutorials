@@ -1,6 +1,6 @@
 # Contacts and Help
 
-For more information on HPC facilities, systems support, assistance with parallel programming and performance optimisation and to report any problems, contact [SU Admin](mailto:serdar.acir@sabanciuniv.edu).
+For more information on HPC facilities, systems support, assistance with parallel programming and performance optimisation and to report any problems, contact [SU Admin](mailto:mdbf.hpc-support@sabanciuniv.edu).
 
 ## Need Additional Help?
 
