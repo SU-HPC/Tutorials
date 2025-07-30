@@ -1,6 +1,6 @@
 [![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 ### How do I open an HPC Account?
-Please send an email to serdar.acir@sabanciuniv.edu stating the software you are willing to use and the professor you are working with.
+Please send an email to mdbf.hpc-support@sabanciuniv.edu stating the software you are willing to use and the professor you are working with.
 ### Which cluster shall I choose?
 Please contact your supervisor to determine the most appropriate cluster for your study.
 ### How long does it take for my HPC account to be opened?
