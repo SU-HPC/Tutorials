@@ -8,7 +8,7 @@ It is outside the scope of this manual to explain Linux commands and/or how para
 ## Getting a Cluster Account  
 
 Sabancı University provides students, educators and researchers two HPC clusters: Sakura and Tosun. As a first step you need to determine which cluster is the most appropriate for you. Please contact your advisor or serdar.acir@sabanciuniv.edu to determine which cluster may better suit your needs.
-In order to open an account in any of the clusters, please send an email to [serdar.acir@sabanciuniv.edu](mailto:serdar.acir@sabanciuniv.edu) along with the name of the advisor you are working with (if any), any particular partition that you need to access (if any) and a brief explanation of what you are planning to do on the cluster. In you brief explanation you can mention the name of the software that you want to have access to on the cluster. 
+In order to open an account in any of the clusters, please send an email to [mdbf.hpc-support@sabanciuniv.edu](mailto:mdbf.hpc-support@sabanciuniv.edu) along with the name of the advisor you are working with (if any), any particular partition that you need to access (if any) and a brief explanation of what you are planning to do on the cluster. In you brief explanation you can mention the name of the software that you want to have access to on the cluster. 
 
 Sabancı HPC support will provide you, a username and a password. Upon first login, you will need to change your password with `passwd` command.
   
@@ -107,7 +107,7 @@ This folder is for long term storage to keep your job files. It is a general pur
 
 To see a list of application software that is installed on the HPC, type the the module avail command from your ssh console once you have logged in. This will give a list of applications, along with their version numbers.
 
-If you want any other software installed, or a different version, send a request email [serdar.acir@sabanciuniv.edu](mailto:serdar.acir@sabanciuniv.edu). Please include a detailed information about the software like web page, version, license etc. 
+If you want any other software installed, or a different version, send a request email [mdbf.hpc-support@sabanciuniv.edu](mailto:mdbf.hpc-support@sabanciuniv.edu). Please include a detailed information about the software like web page, version, license etc. 
 
 Some software will only run on a single processor, in which case you will probably not see any speedup from running the software on the supercomputer compared to running it on your desktop, unless it requires large memory. However, many standard software packages can take advantage of multiple processors, or have parallel versions (e.g. using MPI) that can. Check the user guide for the software.
 
