@@ -1,4 +1,4 @@
-# Sabancı Üniversitesi - Conda Virtual Environment Management Guide
+# Sabancı University - Conda Virtual Environment Management Guide
 
 **Date:** 28.10.2025
 
