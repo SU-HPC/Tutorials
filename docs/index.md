@@ -108,7 +108,7 @@ This folder is for long term storage to keep your job files. It is a general pur
 To see a list of application software that is installed on the HPC, type the the module avail command from your ssh console once you have logged in. This will give a list of applications, along with their version numbers.
 
 If you want any other software installed, or a different version, send a request via SUTicket. Please include a detailed information about the software like web page, version, license etc._
-[*_SUTicket → Faculty of Engineering and Natural Sciences → HPC (High Performance Computing) / FENS Servers_*|https://hc.suticket.sabanciuniv.edu/servicedesk/customer/portal/233/group/268/create/341] 
+SUTicket → Faculty of Engineering and Natural Sciences → HPC (High Performance Computing) / FENS Servers https://hc.suticket.sabanciuniv.edu/servicedesk/customer/portal/233/group/268/create/341
 
 Some software will only run on a single processor, in which case you will probably not see any speedup from running the software on the supercomputer compared to running it on your desktop, unless it requires large memory. However, many standard software packages can take advantage of multiple processors, or have parallel versions (e.g. using MPI) that can. Check the user guide for the software.
 
