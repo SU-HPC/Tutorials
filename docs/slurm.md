@@ -1,7 +1,7 @@
 [![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 ## Slurm Job Submission at SU-HPC Cluster
 
-On Tosun cluster you can find Slurm submission script templates in a the folder: `/cta/share/jobscripts`
+On Tosun cluster you can find Slurm submission script templates in a the folder: `/cta/share/`
 
 Copy the one you need to your work folder and modify it as required:
 
