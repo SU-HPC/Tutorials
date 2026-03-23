@@ -10,3 +10,5 @@ When reporting problems, please give as much information as you can to help us i
 *   What command or program you were trying to execute.
 *   A copy of the error message and when the problem occurred.
 *   Names including the path(s) to scripts called and the output files produced.
+
+Sine Mete
